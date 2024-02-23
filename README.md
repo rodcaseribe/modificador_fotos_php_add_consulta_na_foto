@@ -1,0 +1,2 @@
+# modificador_fotos_php_add_consulta_na_foto
+ modificador_fotos_php_add_consulta_na_foto

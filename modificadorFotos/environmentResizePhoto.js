@@ -1,0 +1,1 @@
+const urlResizePhoto = "http://192.168.0.53:9090/notificador/modificadorFotos/imagensBaixadas/";
